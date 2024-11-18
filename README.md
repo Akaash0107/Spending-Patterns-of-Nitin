@@ -16,11 +16,11 @@ Nitin earns ₹15,000 per month and struggles to save for a scooter purchase due
 - **Dashboard 2**: A six-month expense analysis, identifying trends in spending and categories where expenses were the highest.
 
 ### 2. Raw Excel Files
-- `Expense details for june.xlsx`: Contains detailed expense data for the month of June, broken down by categories like Food, Entertainment, Shopping, and more.
-- `Expense details for 6 months.xlsx`: Contains six months of expenses, tracking trends across categories to identify consistent high-spend areas.
+- `Excel_Projct_Expenses_June_Month.xlsx`: Contains detailed expense data for the month of June, broken down by categories like Food, Entertainment, Shopping, and more.
+- `Excel_Project_Expenses_6 _Months.xlsx`: Contains six months of expenses, tracking trends across categories to identify consistent high-spend areas.
 
 ### 3. PowerPoint Presentation
-- `Expense Analysis for Nitin.pptx`: A comprehensive summary of the project, including key insights, data visualizations, and recommendations for Nitin to reduce expenses.
+- `Excel_Project.pptx`: A comprehensive summary of the project, including key insights, data visualizations, and recommendations for Nitin to reduce expenses.
 
 ---
 
