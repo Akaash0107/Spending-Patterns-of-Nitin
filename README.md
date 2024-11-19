@@ -1,4 +1,4 @@
-# Expense-Analysis-for-Nitin
+# Spending-Patterns-of-Nitin
 
 This project analyzes the expenses of Nitin, a graphic designer, over six months. The goal is to help him increase his savings by identifying unnecessary expenses and providing actionable recommendations.
 
@@ -11,15 +11,11 @@ Nitin earns ₹15,000 per month and struggles to save for a scooter purchase due
 
 ## Project Structure
 
-### 1. Dashboards
-- **Dashboard 1**: Expense breakdown for June, highlighting the percentage spent on each category and unnecessary expenses.
-- **Dashboard 2**: A six-month expense analysis, identifying trends in spending and categories where expenses were the highest.
-
-### 2. Raw Excel Files
+### 1. Raw Excel Files
 - `Excel_Projct_Expenses_June_Month.xlsx`: Contains detailed expense data for the month of June, broken down by categories like Food, Entertainment, Shopping, and more.
 - `Excel_Project_Expenses_6 _Months.xlsx`: Contains six months of expenses, tracking trends across categories to identify consistent high-spend areas.
 
-### 3. PowerPoint Presentation
+### 2. PowerPoint Presentation
 - `Excel_Project.pptx`: A comprehensive summary of the project, including key insights, data visualizations, and recommendations for Nitin to reduce expenses.
 
 ---
