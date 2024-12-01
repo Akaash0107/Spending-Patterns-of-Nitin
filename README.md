@@ -3,7 +3,7 @@
 This project analyzes the expenses of Nitin, a graphic designer, over six months. The goal is to help him increase his savings by identifying unnecessary expenses and providing actionable recommendations.
 
 ## **Preview**
-![Dashboard](https://github.com/Akaash0107/Rupashree-Store-Data-Analysis/blob/main/Rupashree%20_Store_Data_Analysis_Dashboard.png)
+![Dashboard](https://github.com/Akaash0107/Spending-Patterns-of-Nitin/blob/main/Spending_Patterns_of_Nitin_Excel_Dashboard.png)
 
 ## Acknowledgment
 
