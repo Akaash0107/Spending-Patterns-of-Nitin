@@ -1,10 +1,16 @@
-# Spending-Patterns-of-Nitin
+## **Spending_Patterns_of_Nitin_Excel**
 
 This project analyzes the expenses of Nitin, a graphic designer, over six months. The goal is to help him increase his savings by identifying unnecessary expenses and providing actionable recommendations.
+
+## **Preview**
+![Dashboard](https://github.com/Akaash0107/Rupashree-Store-Data-Analysis/blob/main/Rupashree%20_Store_Data_Analysis_Dashboard.png)
 
 ## Acknowledgment
 
 This project was completed in collaboration with **Anudip Foundation** as part of their training and development programs. Special thanks to **Khushbu Thakur** madam for her continuous support and guidance throughout the project.
+
+## Tools Used
+- Microsoft Excel
 
 ## Project Overview
 Nitin earns ₹15,000 per month and struggles to save for a scooter purchase due to unclear spending patterns. This project evaluates his monthly expenses to identify where he can cut costs and improve his savings.
@@ -31,12 +37,12 @@ Nitin earns ₹15,000 per month and struggles to save for a scooter purchase due
 - Organized the raw data in Excel, ensuring consistency and removing any errors.
 - Split the data into **essential** and **non-essential** categories based on necessity.
 
-### 3. Expense Breakdown (Dashboard 1)
+### 3. Expense Breakdown 
 - Created a **Pivot Table** to summarize the June expenses by category.
 - Analyzed the percentage spent on each category, identifying **Grocery** as the highest spending area and **Entertainment/Shopping** as potential savings areas.
 - Created charts to visually represent the highest and second-highest categories for further comparison.
 
-### 4. Six-Month Trend Analysis (Dashboard 2)
+### 4. Six-Month Trend Analysis 
 - Analyzed expense trends across six months to identify patterns of high spending.
 - Compared the total spend across categories like Grocery, Entertainment, and Tickets & Bills.
 - Used graphs and charts to highlight the most expensive months and categories, with **February** having the highest spend.
